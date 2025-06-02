@@ -1,21 +1,10 @@
+In this project, I developed a Front-End Personal Portfolio website in CSS and JS but made it 3D with futuristic looking asthetics to match the style of a coder. 
+I took inspiration from a YT video and created this 3D Portfolio Website for personal branding.
 
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ" target="_blank">
-  <img src="thumbnail.png" alt="Thumbnail"/>
-</a>
+Check below on how it looks: 
 
-
----
-## Introduction: 
-
-#### 🎥 Create the Ultimate Portfolio Website with Just HTML,CSS and JavaSctipt! 💻
-
-#### Want to design a stunning portfolio website that’s responsive, modern, and minimalist? In this step-by-step tutorial, we’ll use only HTML and CSS to craft a visually appealing site that highlights your skills, projects, and creativity. 🌟
-
-#### From building the perfect navbar and styling a sleek header to creating a gallery for your work and adding smooth animations and hover effects, this video covers it all! Whether you’re a beginner or looking to sharpen your design skills, we’ll help you master flexbox, grid, and media queries for a truly responsive layout.
-
-
----
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ">
-  <img src="youtube.png" alt="youtube"/>
-</a>
+![PF1](https://github.com/user-attachments/assets/1ff007bf-7154-4709-8bfd-95675f39f004)
+![PF4](https://github.com/user-attachments/assets/39090f1f-0b9e-4c05-9bc0-fd8218542750)
+![PF3](https://github.com/user-attachments/assets/3ecea63a-9435-424b-8612-a5152350e46e)
+![PF2](https://github.com/user-attachments/assets/8fef97de-2b31-4dbc-8752-8c4539f15fca)
+![PF5](https://github.com/user-attachments/assets/18fa3308-d657-4255-805b-5b7f15df2679)
